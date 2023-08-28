@@ -2,7 +2,7 @@ package com.bootcoding.method;
 
 package com.bootcoding.jdbc.method;
 
-public class Customer {
+public class Order {
     private int customerId;
     private String city;
     private String email;
